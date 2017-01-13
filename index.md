@@ -1,5 +1,7 @@
 ![](http://pengsun.github.io/photo.jpg)
 
+I'm currently a researcher with [Tencent AI Lab](http://ai.tencent.com/ailab/)
+
 ### Contact
 current email: pengsun000:gmail<com 
 
