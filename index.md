@@ -44,7 +44,6 @@ Oct, 2011 – Apr, 2012	Visiting student at Australia National University and NI
 * My PhD Thesis: "Improved Boosting Classifier" (In Chinese, available upon request)
 
 ### Technical Reports
-* "Machine Learning based Heart Blood Vessel Pressure Prediction from 3D CT Image Using a Graph-Like Model" (this method can be viewed as "intuitive physics"). [slides](http://pengsun.github.io/BloodVesPredV4.ppt)
 * Peng Sun, James K. Min, Guanglei Xiong. “Globally Tuned Cascade Pose Regression via Back Propagation with Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images.” http://arxiv.org/abs/1503.08843, 2015
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
