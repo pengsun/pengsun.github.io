@@ -39,7 +39,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Papers
-* Wenhan Luo*, Peng Sun*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking via Reinforcement Learning", International Conference on Machine Learning (ICML), Sweden, 2018. (* indicates equal contribution)
+* Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking via Reinforcement Learning", International Conference on Machine Learning (ICML), Sweden, 2018. (* indicates equal contribution)
 * Li Shen, Peng Sun, Yitong Wang, Wei Liu, Tong Zhang. "An Algorithmic Framework of Variable Metric Over-Relaxed Hybrid Proximal Extra-Gradient Method", ICML 2018.
 * Baoyuan Wu, Weidong Chen, Peng Sun, Wei Liu, Bernard Ghanem, Siwei Lyu. "Tagging Like Humans: Diverse and Distinct Image Annotation", CVPR 2018
 * Qing Wang, Jiechao Xiong, Lei Han, Peng Sun, Han Liu, Tong Zhang. "Monotonic Advantage Reweighted Imitation Learning for Batched Historical Data", NIPS 2018
@@ -55,8 +55,8 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * My PhD Thesis: "Improved Boosting Classifier" (In Chinese, available upon request)
 
 ### Technical Reports
-* Peng Sun*, Xinghai Sun*, Lei Han*, Jiechao Xiong*, Qing Wang, Bo Li, Yang Zheng, Ji Liu, Yongsheng Liu, Han Liu, Tong Zhang. "TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game", https://arxiv.org/abs/1809.07193, 2018 (* indicates equal contribution)
-* Wenhan Luo*, Peng Sun*, Fangwei Zhong*, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning", http://arXiv.org/abs/1808.03405, 2018. (* indicate equal contribution)
+* Peng Sun\*, Xinghai Sun\*, Lei Han\*, Jiechao Xiong\*, Qing Wang, Bo Li, Yang Zheng, Ji Liu, Yongsheng Liu, Han Liu, Tong Zhang. "TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game", https://arxiv.org/abs/1809.07193, 2018 (* indicates equal contribution)
+* Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning", http://arXiv.org/abs/1808.03405, 2018. (* indicate equal contribution)
 * Peng Sun, James K. Min, Guanglei Xiong. “Globally Tuned Cascade Pose Regression via Back Propagation with Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images.” http://arxiv.org/abs/1503.08843, 2015
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
