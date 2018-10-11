@@ -65,7 +65,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Invited talk at Learning to Rank Team, Division of Page Searching, Baidu Inc., Oct 2013.
 
 ### Code/Project
-* CT volume segmentation based on 3D ConvNet (in Matlab). [The NN Lib](https://github.com/pengsun/MatConvDAG) | [Vessel Segmentation](https://github.com/pengsun/VesselSeg3d) | [3D Heart Pose Regression](https://github.com/pengsun/bpcpr5)
+* CT volume segmentation based on 3D ConvNet (in Matlab). [The NN Lib](https://github.com/pengsun/MatConvDAG), [Vessel Segmentation](https://github.com/pengsun/VesselSeg3d), [3D Heart Pose Regression](https://github.com/pengsun/bpcpr5)
 * [One-Hot ConvNet for Text Classification (in Torch 7)](https://github.com/pengsun/ohnn-text-cls)
 * [The Multi-Class LogitBoost for the ICML2012 AOSO-LogitBoost paper](https://github.com/pengsun/AOSOLogitBoost)
 * [Data Conversion between Matlab & C++ ](http://cn.mathworks.com/matlabcentral/fileexchange/20927-c-c++-and-matlab-types-convertor)
