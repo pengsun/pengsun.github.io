@@ -35,7 +35,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Python (with Tensorflow)
 * C++ (Procedural/Object-Oriented/Generic programming; with popular libraries, e.g., OpenCV)
 * Lua (with Torch 7 for prototyping or deploying Deep Learning algorithms)
-* Matlab (fast prototyping, as script and test-bench, mex hybrid programming…) and Python
+* Matlab (fast prototyping, as script and test-bench, mex hybrid programming…)
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Papers
