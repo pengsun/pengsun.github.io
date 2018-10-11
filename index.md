@@ -64,7 +64,10 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Registered reviewer for Journal of Machine Learning Research (JMLR), Machine Learning (MLJ), IEEE Transaction on Image Processing (TIP), NIPS(2017, 2018), International Conference on Machine Learning (ICML2016, 2017, 2018).
 * Invited talk at Learning to Rank Team, Division of Page Searching, Baidu Inc., Oct 2013.
 
-### Miscellaneous
+### Code/Project
+* CT volume segmentation based on 3D ConvNet (in Matlab). [The NN Lib](https://github.com/pengsun/MatConvDAG) | [Vessel Segmentation](https://github.com/pengsun/VesselSeg3d) | [3D Heart Pose Regression](https://github.com/pengsun/bpcpr5)
+* [One-Hot ConvNet for Text Classification (in Torch 7)](https://github.com/pengsun/ohnn-text-cls)
+* [The Multi-Class LogitBoost for the ICML2012 AOSO-LogitBoost paper](https://github.com/pengsun/AOSOLogitBoost)
 * [Data Conversion between Matlab & C++ ](http://cn.mathworks.com/matlabcentral/fileexchange/20927-c-c++-and-matlab-types-convertor)
 
 <a href="http://www.clustrmaps.com/map/pengsun.github.io" title="Visitor Map for pengsun.github.io"><img src="//www.clustrmaps.com/map_v2.png?u=PGfd&d=uAPnZSwRVGOiC3hzXBDBi7x-tI94F804ukADpljUrqM" /></a>
