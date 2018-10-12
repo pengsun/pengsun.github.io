@@ -66,6 +66,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 
 ### Code/Project
 * [ViZDoom maps/scenarios for the ICML2018 Active Object Tracking paper](https://bitbucket.org/pengsun000/gym-tvizdoom)
+* [Distributed Multiple-Learner-Multiple-Actor IMPALA](https://github.com/loyave/impala_horovod_gym)
 * [3D Conv Layer (mex for Matlab, with CUDA)](https://github.com/pengsun/MexConv3D)
 * CT volume segmentation based on 3D ConvNet (in Matlab). [The NN Lib](https://github.com/pengsun/MatConvDAG), [Vessel Segmentation](https://github.com/pengsun/VesselSeg3d), [3D Heart Pose Regression](https://github.com/pengsun/bpcpr5)
 * [One-Hot ConvNet for Text Classification (in Torch 7)](https://github.com/pengsun/ohnn-text-cls)
