@@ -40,6 +40,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 
 ### Papers
 * Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking via Reinforcement Learning", ICML 2018. (* indicates equal contribution)
+* Fangwei Zhong, Peng Sun, Wenhan Luo, T. Yan, Y. Wang, AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking, NIPS workshop on Deep Reinforcement Learning, 2018.
 * Li Shen, Peng Sun, Yitong Wang, Wei Liu, Tong Zhang. "An Algorithmic Framework of Variable Metric Over-Relaxed Hybrid Proximal Extra-Gradient Method", ICML 2018.
 * Baoyuan Wu, Weidong Chen, Peng Sun, Wei Liu, Bernard Ghanem, Siwei Lyu. "Tagging Like Humans: Diverse and Distinct Image Annotation", CVPR 2018
 * Qing Wang, Jiechao Xiong, Lei Han, Peng Sun, Han Liu, Tong Zhang. "Exponentially Weighted Imitation Learning for Batched Historical Data", NIPS 2018
