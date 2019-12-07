@@ -39,6 +39,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Papers
+* Zequn Jie, Peng Sun, Xin Li, Jiashi Feng and Wei Liu. "Anytime Recognition with Routing Convolutional Networks". TPAMI 2019
 * Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking". TPAMI 2019
 * Lei Han\*, Peng Sun\*, Yali Du\*, Jiechao Xiong, Qing Wang, Xinghai Sun, Han Liu, Tong Zhang. "Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI". ICML 2019 (* indicates equal contribution)
 * Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning", TPAMI 2019. (* indicates equal contribution)
