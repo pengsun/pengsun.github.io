@@ -38,6 +38,14 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Matlab (fast prototyping, as script and test-bench, mex hybrid programming…)
 * Experiences on Multi-threading and GPU (CUDA C)
 
+### Technical Reports
+* Lei Han\*, Jiechao Xiong\*, Peng Sun\*, Xinghai Sun, Meng Fang, Qingwei Guo, Qiaobo Chen, Tengfei Shi, Zhengyou Zhang. TStarBot-X: An Open-Sourced and Comprehensive Study for Efficient League Training in StarCraft II Full Game. [arXiv preprint arXiv:2011.13729](https://arxiv.org/abs/2011.13729), 2020 (* Equal contribution, correspondence to the first three authors)
+* Peng Sun\*, Jiechao Xiong\*, Lei Han\*, Xinghai Sun, Shuxing Li, Jiawei Xu, Meng Fang, Zhengyou Zhang. TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning. [arXiv preprint arXiv:2011.12895](https://arxiv.org/abs/2011.12895), 2020 (* Equal contribution, correspondence to the first three authors)
+* Qing Wang\*, Jiechao Xiong\*, Lei Han, Meng Fang, Xinghai Sun, Zhuobin Zheng, Peng Sun, Zhengyou Zhang. "Arena: a toolkit for Multi-Agent Reinforcement Learning", https://arxiv.org/abs/1907.09467, 2019 (* indicates equal contribution) 
+* Peng Sun\*, Xinghai Sun\*, Lei Han\*, Jiechao Xiong\*, Qing Wang, Bo Li, Yang Zheng, Ji Liu, Yongsheng Liu, Han Liu, Tong Zhang. "TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game", https://arxiv.org/abs/1809.07193, 2018 (* indicates equal contribution)
+* Peng Sun, James K. Min, Guanglei Xiong. “Globally Tuned Cascade Pose Regression via Back Propagation with Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images.” http://arxiv.org/abs/1503.08843, 2015
+* Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
+
 ### Papers
 * Zequn Jie, Peng Sun, Xin Li, Jiashi Feng and Wei Liu. "Anytime Recognition with Routing Convolutional Networks". TPAMI 2019
 * Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking". TPAMI 2019
@@ -59,11 +67,6 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun, Yinan Na, and Jie Zhou. "A novel algorithm for cut shot boundary detection." Seventh International Symposium on Multispectral Image Processing and Pattern Recognition (MIPPR2011). SPIE, 2011.
 * My PhD Thesis: "Improved Boosting Classifier" (In Chinese, available upon request)
 
-### Technical Reports
-* Qing Wang\*, Jiechao Xiong\*, Lei Han, Meng Fang, Xinghai Sun, Zhuobin Zheng, Peng Sun, Zhengyou Zhang. "Arena: a toolkit for Multi-Agent Reinforcement Learning", https://arxiv.org/abs/1907.09467, 2019 (* indicates equal contribution) 
-* Peng Sun\*, Xinghai Sun\*, Lei Han\*, Jiechao Xiong\*, Qing Wang, Bo Li, Yang Zheng, Ji Liu, Yongsheng Liu, Han Liu, Tong Zhang. "TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game", https://arxiv.org/abs/1809.07193, 2018 (* indicates equal contribution)
-* Peng Sun, James K. Min, Guanglei Xiong. “Globally Tuned Cascade Pose Regression via Back Propagation with Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images.” http://arxiv.org/abs/1503.08843, 2015
-* Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Professional Activities
 * Registered reviewer for Journal of Machine Learning Research (JMLR), Machine Learning (MLJ), IEEE Transaction on Image Processing (TIP), NIPS(2017, 2018), International Conference on Machine Learning (ICML2016, 2017, 2018).
