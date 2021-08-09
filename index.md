@@ -47,6 +47,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Papers
+* Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "Towards Distraction-Robust Active Visual Tracking". ICML 2021
 * Zequn Jie, Peng Sun, Xin Li, Jiashi Feng and Wei Liu. "Anytime Recognition with Routing Convolutional Networks". TPAMI 2019
 * Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking". TPAMI 2019
 * Lei Han\*, Peng Sun\*, Yali Du\*, Jiechao Xiong, Qing Wang, Xinghai Sun, Han Liu, Tong Zhang. "Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI". ICML 2019 (* indicates equal contribution)
