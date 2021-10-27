@@ -8,7 +8,7 @@ other or former emails: pythonsun:tencent<com, peng.sun@rutgers.edu, pes2021@med
 where : = @, < = .
 
 ### Research Interests
-Machine Learning and its applications. In particular, Deep Learning, Deep Reinforcement Learning, Boosting and Computer Vision.
+Machine Learning and its applications. In particular, Deep Learning, Deep Reinforcement Learning, Ensemble Learning.
 
 
 ### Experiences
