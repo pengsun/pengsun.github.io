@@ -12,9 +12,9 @@ Machine Learning and its applications. In particular, Deep Learning, Deep Reinfo
 
 
 ### Experiences
-Oct, 2016 - Now.   Senior Researcher with [Tencent AI Lab](http://ai.tencent.com/ailab/).
+Oct, 2016 - Dec, 2020 Senior Researcher with [Tencent AI Lab](http://ai.tencent.com/ailab/); Tech Lead of Agent Learning Center, [Tencent Robotics X](https://www.tencent.com/en-us/business/robotics.html)
 
-Aug, 2015 – Aug, 2016 	Post-doctoral researcher on Machine Learning, Deep Learning applied to Natural Language Processing and Sequential Data, Dpt. of Statistics, Rutgers University. Advisor: [Tong Zhang](http://tongzhang-ml.org/)
+Aug, 2015 – Aug, 2016 Post-doctoral researcher on Machine Learning, Deep Learning applied to Natural Language Processing and Sequential Data, Dpt. of Statistics, Rutgers University. Advisor: [Tong Zhang](http://tongzhang-ml.org/)
 
 Sep, 2014 – Aug, 2015	Post-doctoral researcher on Machine Learning applied to Medical Image Processing and CT image based Cardiovascular disease diagnosis, Dalio ICI, Weill Cornell Medical College, Cornell University. Advisors: [Guanglei Xiong](http://vivo.med.cornell.edu/display/cwid-gux2003) and [James K. Min](https://en.wikipedia.org/wiki/James_K._Min)
 
