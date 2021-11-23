@@ -12,7 +12,7 @@ Machine Learning and its applications. In particular, Deep Learning, Deep Reinfo
 
 
 ### Experiences
-Oct, 2016 - Dec, 2020 Senior Researcher with [Tencent AI Lab](http://ai.tencent.com/ailab/); Tech Lead of Agent Learning Center, [Tencent Robotics X](https://www.tencent.com/en-us/business/robotics.html)
+Oct, 2016 - Dec, 2020 Senior Researcher with [Tencent AI Lab](http://ai.tencent.com/ailab/); Team Leader of Agent Learning Center, [Tencent Robotics X](https://www.tencent.com/en-us/business/robotics.html)
 
 Aug, 2015 – Aug, 2016 Post-doctoral researcher on Machine Learning, Deep Learning applied to Natural Language Processing and Sequential Data, Dpt. of Statistics, Rutgers University. Advisor: [Tong Zhang](http://tongzhang-ml.org/)
 
