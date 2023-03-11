@@ -42,7 +42,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 
 ### Technical Reports
 * Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", [arXiv preprint arXiv:2303.05197](https://arxiv.org/abs/2303.05197), 2023 (\* Equal contribution; \*\* Corresponding author).  
-*Defeat a Hearthstone human player who best ranked top 10 in the official league of China region.*
+*In a machine-vs-human test of full-game (including both deck-building and battle), our AIs defeat a Hearthstone streamer who best ranked top 10 in the official league of China region.*
 * Wei Xi, Yongxin Zhang, Changnan Xiao, Xuefeng Huang, Shihong Deng, Haowei Liang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Legends of Code and Magic) via End-to-End Policy and Optimistic Smooth Fictitious Play", [arXiv preprint arXiv:2303.04096](https://arxiv.org/abs/2303.04096), 2023 (\*\* Corresponding author).  
 *Won the double championship of the [COG2022 strategy card game LoCM competition](https://legendsofcodeandmagic.com/COG22/).*
 * Lei Han\*, Jiechao Xiong\*, Peng Sun\*, Xinghai Sun, Meng Fang, Qingwei Guo, Qiaobo Chen, Tengfei Shi, Zhengyou Zhang. "TStarBot-X: An Open-Sourced and Comprehensive Study for Efficient League Training in StarCraft II Full Game", [arXiv preprint arXiv:2011.13729](https://arxiv.org/abs/2011.13729), 2020 (* Equal contribution, correspondence to the first three authors)
