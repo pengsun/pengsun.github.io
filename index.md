@@ -12,6 +12,8 @@ Machine Learning and its applications. In particular, Deep Learning, Deep Reinfo
 
 
 ### Experiences
+Dec, 2020 - now, ByteDance Inc.
+
 Oct, 2016 - Dec, 2020 Senior Researcher with [Tencent AI Lab](http://ai.tencent.com/ailab/); Team Leader of Agent Learning Center, [Tencent Robotics X](https://www.tencent.com/en-us/business/robotics.html)
 
 Aug, 2015 – Aug, 2016 Post-doctoral researcher on Machine Learning, Deep Learning applied to Natural Language Processing and Sequential Data, Dpt. of Statistics, Rutgers University. Advisor: [Tong Zhang](http://tongzhang-ml.org/)
@@ -39,6 +41,10 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Technical Reports
+* Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. Mastering Strategy Card Game (Hearthstone) with Improved Techniques. [arXiv preprint arXiv:2303.05197](https://arxiv.org/abs/2303.05197), 2023 (\* Equal contribution; \*\* Corresponding author).  
+*Defeat a Hearthstone human player who best ranked top 10 in the official league of China region.*
+* Wei Xi, Yongxin Zhang, Changnan Xiao, Xuefeng Huang, Shihong Deng, Haowei Liang, Jie Chen, Peng Sun\*\*. Mastering Strategy Card Game (Legends of Code and Magic) via End-to-End Policy and Optimistic Smooth Fictitious Play. [arXiv preprint arXiv:2303.04096](https://arxiv.org/abs/2303.04096), 2023 (\*\* Corresponding author).  
+*Won the double championship of the COG2022 strategy card game LoCM competition.*
 * Lei Han\*, Jiechao Xiong\*, Peng Sun\*, Xinghai Sun, Meng Fang, Qingwei Guo, Qiaobo Chen, Tengfei Shi, Zhengyou Zhang. TStarBot-X: An Open-Sourced and Comprehensive Study for Efficient League Training in StarCraft II Full Game. [arXiv preprint arXiv:2011.13729](https://arxiv.org/abs/2011.13729), 2020 (* Equal contribution, correspondence to the first three authors)
 * Peng Sun\*, Jiechao Xiong\*, Lei Han\*, Xinghai Sun, Shuxing Li, Jiawei Xu, Meng Fang, Zhengyou Zhang. TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning. [arXiv preprint arXiv:2011.12895](https://arxiv.org/abs/2011.12895), 2020 (* Equal contribution, correspondence to the first three authors)
 * Qing Wang\*, Jiechao Xiong\*, Lei Han, Meng Fang, Xinghai Sun, Zhuobin Zheng, Peng Sun, Zhengyou Zhang. "Arena: a toolkit for Multi-Agent Reinforcement Learning", https://arxiv.org/abs/1907.09467, 2019 (* indicates equal contribution) 
