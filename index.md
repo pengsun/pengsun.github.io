@@ -53,6 +53,9 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Papers
+* Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", IEEE CoG 2023 (\* Equal contribution; \*\* Corresponding author).  
+*Conference version of the technical report.*
+* Shuxing Li\*, Jiawei Xu\*, Honghua Dong, Yu Yang, Chun Yuan, Peng Sun and Lei Han. "The Fittest Wins: a Multi-Stage Framework Achieving New SOTA in ViZDoom Competition". IEEE ToG 2023 (* indicates equal contribution)
 * Zongkai Liu, Chao Yu\*, Yaodong Yang, Peng Sun, Zifan Wu. "A Unified Diversity Measure for Multiagent Reinforcement Learning". NeurIPS 2022. (\* Corresponding author)
 * Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "Towards Distraction-Robust Active Visual Tracking". ICML 2021
 * Zequn Jie, Peng Sun, Xin Li, Jiashi Feng and Wei Liu. "Anytime Recognition with Routing Convolutional Networks". TPAMI 2019
