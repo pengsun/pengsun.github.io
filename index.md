@@ -41,8 +41,6 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Technical Reports
-* Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", [arXiv preprint arXiv:2303.05197](https://arxiv.org/abs/2303.05197), 2023 (\* Equal contribution; \*\* Corresponding author).  
-*In a machine-vs-human test of full-game (including both deck-building and battle), our AIs defeat a Hearthstone streamer who best ranked top 10 in the official league of China region.*
 * Wei Xi, Yongxin Zhang, Changnan Xiao, Xuefeng Huang, Shihong Deng, Haowei Liang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Legends of Code and Magic) via End-to-End Policy and Optimistic Smooth Fictitious Play", [arXiv preprint arXiv:2303.04096](https://arxiv.org/abs/2303.04096), 2023 (\*\* Corresponding author).  
 *Won the double championship of the [COG2022 strategy card game LoCM competition](https://legendsofcodeandmagic.com/COG22/).*
 * Lei Han\*, Jiechao Xiong\*, Peng Sun\*, Xinghai Sun, Meng Fang, Qingwei Guo, Qiaobo Chen, Tengfei Shi, Zhengyou Zhang. "TStarBot-X: An Open-Sourced and Comprehensive Study for Efficient League Training in StarCraft II Full Game", [arXiv preprint arXiv:2011.13729](https://arxiv.org/abs/2011.13729), 2020 (* Equal contribution, correspondence to the first three authors)
@@ -53,8 +51,9 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Papers
-* Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", IEEE CoG 2023 (\* Equal contribution; \*\* Corresponding author).  
-*Conference version of the technical report.*
+* Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", IEEE CoG 2023 [arXiv preprint arXiv:2303.05197](https://arxiv.org/abs/2303.05197) (\* Equal contribution; \*\* Corresponding author).
+*In a machine-vs-human test of full-game (including both deck-building and battle), our AIs defeat a Hearthstone streamer who best ranked top 10 in the official league of China region.*
+*Nominated for best paper at CoG2023*
 * Shuxing Li\*, Jiawei Xu\*, Honghua Dong, Yu Yang, Chun Yuan, Peng Sun and Lei Han. "The Fittest Wins: a Multi-Stage Framework Achieving New SOTA in ViZDoom Competition". IEEE ToG 2023 (* indicates equal contribution)
 * Zongkai Liu, Chao Yu\*, Yaodong Yang, Peng Sun, Zifan Wu. "A Unified Diversity Measure for Multiagent Reinforcement Learning". NeurIPS 2022. (\* Corresponding author)
 * Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "Towards Distraction-Robust Active Visual Tracking". ICML 2021
