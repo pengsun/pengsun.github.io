@@ -51,6 +51,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Papers
+* Hanlin Yang, Chao Yu\*, Peng Sun, Siji Chen. "Hybrid Policy Optimization from Imperfect Demonstrations", NeurIPS 2023 (\* Corresponding author)
 * Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", IEEE CoG 2023 [arXiv preprint arXiv:2303.05197](https://arxiv.org/abs/2303.05197) (\* Equal contribution; \*\* Corresponding author).
 *In a machine-vs-human test of full-game (including both deck-building and battle), our AIs defeat a Hearthstone streamer who best ranked top 10 in the official league of China region.*
 *Nominated for best paper at CoG2023*
