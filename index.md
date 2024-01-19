@@ -3,7 +3,7 @@
 ### Contact
 current email: pengsun000:gmail<com 
 
-other or former emails: pythonsun:tencent<com, peng.sun@rutgers.edu, pes2021@med.cornell.edu, sunp08@mails.tsinghua.edu.cn
+other or former emails: wanhesong:bytedance<com pythonsun@tencent.com, peng.sun@rutgers.edu, pes2021@med.cornell.edu, sunp08@mails.tsinghua.edu.cn
 
 where : = @, < = .
 
