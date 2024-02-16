@@ -41,6 +41,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Technical Reports
+* Yang Liu\*, Peng Sun\*, Hang Li. "Large Language Models as Agents in Two-Player Games", [arXiv preprint arXiv:2402.08078](https://arxiv.org/abs/2402.08078), 2024 (\* indicates equal contribution)
 * Trung Quoc Luong\*, Xinbo Zhang\*, Zhanming Jie\*, Peng Sun\*\*, Xiaoran Jin, Hang Li. "ReFT: Reasoning with Reinforced Fine-Tuning", [arXiv preprint arXiv:2401.08967](https://arxiv.org/abs/2401.08967), 2024 (\* indicates equal contribution, \*\* corresponding author)
 * Wei Xi, Yongxin Zhang, Changnan Xiao, Xuefeng Huang, Shihong Deng, Haowei Liang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Legends of Code and Magic) via End-to-End Policy and Optimistic Smooth Fictitious Play", [arXiv preprint arXiv:2303.04096](https://arxiv.org/abs/2303.04096), 2023 (\*\* Corresponding author).  
 *Won the double championship of the [COG2022 strategy card game LoCM competition](https://legendsofcodeandmagic.com/COG22/).*
