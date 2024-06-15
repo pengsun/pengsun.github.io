@@ -41,6 +41,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Experiences on Multi-threading and GPU (CUDA C)
 
 ### Technical Reports
+
 * Yang Liu\*, Peng Sun\*, Hang Li. "Large Language Models as Agents in Two-Player Games", [arXiv preprint arXiv:2402.08078](https://arxiv.org/abs/2402.08078), 2024 (\* indicates equal contribution)
 * Trung Quoc Luong\*, Xinbo Zhang\*, Zhanming Jie\*, Peng Sun\*\*, Xiaoran Jin, Hang Li. "ReFT: Reasoning with Reinforced Fine-Tuning", [arXiv preprint arXiv:2401.08967](https://arxiv.org/abs/2401.08967), 2024 (\* indicates equal contribution, \*\* corresponding author)
 * Wei Xi, Yongxin Zhang, Changnan Xiao, Xuefeng Huang, Shihong Deng, Haowei Liang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Legends of Code and Magic) via End-to-End Policy and Optimistic Smooth Fictitious Play", [arXiv preprint arXiv:2303.04096](https://arxiv.org/abs/2303.04096), 2023 (\*\* Corresponding author).  
@@ -53,6 +54,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Papers
+* Zhiheng Xi, Wenxiang Chen, Boyang Hong, Senjie Jin, Rui Zheng, Wei He, Yiwen Ding, Shichun Liu, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang, Xuanjing Huang. "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning", ICML 2024
 * Hanlin Yang, Chao Yu\*, Peng Sun, Siji Chen. "Hybrid Policy Optimization from Imperfect Demonstrations", NeurIPS 2023 (\* Corresponding author)
 * Changnan Xiao\*, Yongxin Zhang\*, Xuefeng Huang, Qinhan Huang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Hearthstone) with Improved Techniques", IEEE CoG 2023 [arXiv preprint arXiv:2303.05197](https://arxiv.org/abs/2303.05197) (\* Equal contribution; \*\* Corresponding author).
 *In a machine-vs-human test of full-game (including both deck-building and battle), our AIs defeat a Hearthstone streamer who best ranked top 10 in the official league of China region.*
