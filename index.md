@@ -18,17 +18,17 @@ Oct, 2016 - Dec, 2020 Senior Researcher with [Tencent AI Lab](http://ai.tencent.
 
 Aug, 2015 – Aug, 2016 Post-doctoral researcher on Machine Learning, Deep Learning applied to Natural Language Processing and Sequential Data, Dpt. of Statistics, Rutgers University. Advisor: [Tong Zhang](http://tongzhang-ml.org/)
 
-Sep, 2014 – Aug, 2015	Post-doctoral researcher on Machine Learning applied to Medical Image Processing and CT image based Cardiovascular disease diagnosis, Dalio ICI, Weill Cornell Medical College, Cornell University. Advisors: [Guanglei Xiong](http://vivo.med.cornell.edu/display/cwid-gux2003) and [James K. Min](https://en.wikipedia.org/wiki/James_K._Min)
+Sep, 2014 – Aug, 2015	Post-doctoral researcher on Machine Learning applied to Medical Image Processing and CT image based Cardiovascular disease diagnosis, Dalio ICI, Weill Cornell Medical College, Cornell University. Advisors: [Guanglei Xiong](https://www.linkedin.com/feed/update/urn:li:activity:7132521998580158464/) and [James K. Min](https://en.wikipedia.org/wiki/James_K._Min)
 
-Jul, 2013 – Apr, 2014	Intern at Institute of Deep Learning, Baidu Inc. Mentor: [Tong Zhang](http://stat.rutgers.edu/home/tzhang/) and [Kai Yu](http://www.dbs.ifi.lmu.de/~yu_k/).
+Jul, 2013 – Apr, 2014	Intern at Institute of Deep Learning, Baidu Inc. Mentor: [Tong Zhang](https://tongzhang-ml.org/) and [Kai Yu](http://www.dbs.ifi.lmu.de/~yu_k/).
 
-Oct, 2011 – Apr, 2012	Visiting student at Australia National University and NICTA. Advisors: [Mark Reid](http://mark.reid.name/work/) and [Robert Williamson](http://axiom.anu.edu.au/~williams/).
+Oct, 2011 – Apr, 2012	Visiting student at Australia National University and NICTA. Advisors: [Mark Reid](http://mark.reid.name/work/) and [Robert Williamson](https://fm.ls/bob).
 
 
 ### Educations
-Sep, 2008 – Jul, 2014	PhD at i-Vision Group, Dpt. of Automation, Tsinghua University. Supervisor: [Jie Zhou](http://www.tsinghua.edu.cn/publish/auen/1713/2011/20110506105532098625469/20110506105532098625469_.html). 
+Sep, 2008 – Jul, 2014	PhD at i-Vision Group, Dpt. of Automation, Tsinghua University. Supervisor: [Jie Zhou](https://www.au.tsinghua.edu.cn/en/info/1078/3196.htm). 
 
-Sep, 2005 – Mar, 2008	Master Degree of Telecommunication Engineering, Beijing University of Posts and Telecommunications (BUPT). Supervisors: [Fei Su](http://bklnsnc.bupt.edu.cn/sf.htm) and [Anni Cai](http://baike.baidu.com/view/1327152.htm).
+Sep, 2005 – Mar, 2008	Master Degree of Telecommunication Engineering, Beijing University of Posts and Telecommunications (BUPT). Supervisors: [Fei Su](https://teacher.bupt.edu.cn/sufei/en/jsxx/37002/jsxx/jsxx.htm) and [Anni Cai](http://baike.baidu.com/view/1327152.htm).
 
 Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan University of Technology (WHUT). Rank 2 of 200+.
 
