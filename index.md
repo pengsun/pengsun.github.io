@@ -49,8 +49,8 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Peng Sun\*, Jiechao Xiong\*, Lei Han\*, Xinghai Sun, Shuxing Li, Jiawei Xu, Meng Fang, Zhengyou Zhang. "TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning", [arXiv preprint arXiv:2011.12895](https://arxiv.org/abs/2011.12895), 2020 (* Equal contribution, correspondence to the first three authors)
 * Qing Wang\*, Jiechao Xiong\*, Lei Han, Meng Fang, Xinghai Sun, Zhuobin Zheng, Peng Sun, Zhengyou Zhang. "Arena: a toolkit for Multi-Agent Reinforcement Learning", https://arxiv.org/abs/1907.09467, 2019 (* indicates equal contribution) 
 * Peng Sun\*, Xinghai Sun\*, Lei Han\*, Jiechao Xiong\*, Qing Wang, Bo Li, Yang Zheng, Ji Liu, Yongsheng Liu, Han Liu, Tong Zhang. "TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game", https://arxiv.org/abs/1809.07193, 2018 (* indicates equal contribution)
-* Jiechao Xiong, Qing Wang, Zhuoran Yang, Peng Sun, Lei Han, Yang Zheng, Haobo Fu, Tong Zhang, Ji Liu, Han Liu1. "Parametrized Deep Q-Networks Learning: Reinforcement Learning with Discrete-Continuous Hybrid Action Space" https://arxiv.org/abs/1810.06394, 2018
-* Peng Sun, James K. Min, Guanglei Xiong. “Globally Tuned Cascade Pose Regression via Back Propagation with Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images.” http://arxiv.org/abs/1503.08843, 2015
+* Jiechao Xiong, Qing Wang, Zhuoran Yang, Peng Sun, Lei Han, Yang Zheng, Haobo Fu, Tong Zhang, Ji Liu, Han Liu. "Parametrized Deep Q-Networks Learning: Reinforcement Learning with Discrete-Continuous Hybrid Action Space" [arXiv preprint arXiv:1810.06394](https://arxiv.org/abs/1810.06394), 2018
+* Peng Sun, James K. Min, Guanglei Xiong. "Globally Tuned Cascade Pose Regression via Back Propagation with Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images." http://arxiv.org/abs/1503.08843, 2015
 * Peng Sun, Haoyin Zhou, Devon Lundine, James K Min, Guanglei Xiong. "Fast Segmentation of Left Ventricle in CT Images by Explicit Shape Regression using Random Pixel Difference Features". http://arxiv.org/abs/1507.07508, 2015
 
 ### Papers
@@ -67,7 +67,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 * Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking". TPAMI 2019
 * Lei Han\*, Peng Sun\*, Yali Du\*, Jiechao Xiong, Qing Wang, Xinghai Sun, Han Liu, Tong Zhang. "Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI". ICML 2019 (* indicates equal contribution)
 * Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning", TPAMI 2019. (* indicates equal contribution)
-* Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking, ICLR 2019 (an earlier version also appeared in NIPS workshop on Deep Reinforcement Learning, 2018).
+* Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang. "AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking", ICLR 2019 (an earlier version also appeared in NIPS workshop on Deep Reinforcement Learning, 2018).
 * Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang. "End-to-end Active Object Tracking via Reinforcement Learning", ICML 2018. (* indicates equal contribution)
 * Li Shen, Peng Sun, Yitong Wang, Wei Liu, Tong Zhang. "An Algorithmic Framework of Variable Metric Over-Relaxed Hybrid Proximal Extra-Gradient Method", ICML 2018.
 * Baoyuan Wu, Weidong Chen, Peng Sun, Wei Liu, Bernard Ghanem, Siwei Lyu. "Tagging Like Humans: Diverse and Distinct Image Annotation", CVPR 2018
