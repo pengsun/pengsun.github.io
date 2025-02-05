@@ -42,6 +42,7 @@ Sep, 2001 – Jul, 2005	Bachelor Degree of Telecommunication Engineering, Wuhan 
 
 
 ### Technical Reports
+* Rong Ye\* \*\*, Yongxin Zhang\*, Yikai Zhang, Haoyu Kuang, Zhongyu Wei\*\*, Peng Sun\*\*. "Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game", [arXiv preprint arXiv:2501.14225](https://arxiv.org/abs/2501.14225), 2025 (\* Equal contributions; \*\* Corresponding author)
 * Yang Liu\*, Peng Sun\*, Hang Li. "Large Language Models as Agents in Two-Player Games", [arXiv preprint arXiv:2402.08078](https://arxiv.org/abs/2402.08078), 2024 (\* indicates equal contribution)
 * Wei Xi, Yongxin Zhang, Changnan Xiao, Xuefeng Huang, Shihong Deng, Haowei Liang, Jie Chen, Peng Sun\*\*. "Mastering Strategy Card Game (Legends of Code and Magic) via End-to-End Policy and Optimistic Smooth Fictitious Play", [arXiv preprint arXiv:2303.04096](https://arxiv.org/abs/2303.04096), 2023 (\*\* Corresponding author).  
 *Won the double championship of the [COG2022 strategy card game LoCM competition](https://legendsofcodeandmagic.com/COG22/).*
